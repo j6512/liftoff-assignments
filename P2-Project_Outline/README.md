@@ -33,4 +33,4 @@ The idea came from personal experience having a difficult time staying focused w
 
 ### Project Tracker
 Link to your Trello board here
-I haven't made a Trello for the Studying web app idea yet as I am not 100% sure I am going this route. I think I'd like to though. 
+https://trello.com/b/x1vWsNje/stayfocused
